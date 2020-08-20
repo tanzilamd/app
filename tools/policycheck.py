@@ -2,6 +2,7 @@
 
 import hashlib
 import sys
+import sqlite3
 from profanity_check import predict_prob
 
 def main(argv):
